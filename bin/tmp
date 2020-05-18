@@ -1,0 +1,28 @@
+total 1435360
+drwxr-xr-x  20 root root       4096  四  28 13:21 .
+drwxr-xr-x  20 root root       4096  四  28 13:21 ..
+lrwxrwxrwx   1 root root          7  四  28 13:19 bin -> usr/bin
+drwxr-xr-x   4 root root       4096  五   6 10:11 boot
+drwxrwxr-x   2 root root       4096  四  28 13:21 cdrom
+drwxr-xr-x  19 root root       4040  五   6 10:10 dev
+drwxr-xr-x 132 root root      12288  五  18 20:13 etc
+drwxr-xr-x   3 root root       4096  四  28 13:21 home
+lrwxrwxrwx   1 root root          7  四  28 13:19 lib -> usr/lib
+lrwxrwxrwx   1 root root          9  四  28 13:19 lib32 -> usr/lib32
+lrwxrwxrwx   1 root root          9  四  28 13:19 lib64 -> usr/lib64
+lrwxrwxrwx   1 root root         10  四  28 13:19 libx32 -> usr/libx32
+drwx------   2 root root      16384  四  28 13:18 lost+found
+drwxr-xr-x   3 root root       4096  四  28 13:33 media
+drwxr-xr-x   2 root root       4096  四  23 15:32 mnt
+drwxr-xr-x   3 root root       4096  四  28 13:34 opt
+dr-xr-xr-x 226 root root          0  四  29 12:10 proc
+drwx------   5 root root       4096  五  18 20:13 root
+drwxr-xr-x  32 root root       1020  五  18 16:38 run
+lrwxrwxrwx   1 root root          8  四  28 13:19 sbin -> usr/sbin
+drwxr-xr-x   8 root root       4096  四  28 13:31 snap
+drwxr-xr-x   2 root root       4096  四  23 15:32 srv
+-rw-------   1 root root 1469716480  四  28 13:18 swapfile
+dr-xr-xr-x  13 root root          0  四  29 12:10 sys
+drwxrwxrwt  23 root root       4096  五  18 20:28 tmp
+drwxr-xr-x  14 root root       4096  四  23 15:34 usr
+drwxr-xr-x  14 root root       4096  四  23 15:42 var
